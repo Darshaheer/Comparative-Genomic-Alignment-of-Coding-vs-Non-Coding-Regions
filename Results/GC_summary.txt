@@ -1,0 +1,24 @@
+GC Content Comparison
+CDS Sequences:
+CDS_1: 55.35%
+CDS_2: 56.10%
+CDS_3: 56.14%
+CDS_4: 56.55%
+CDS_5: 55.40%
+CDS_6: 53.73%
+CDS_7: 56.62%
+CDS_8: 55.46%
+CDS_9: 57.28%
+CDS_10: 56.85%
+
+Non-coding Sequences:
+NonCoding_1: 49.07%
+NonCoding_2: 49.97%
+NonCoding_3: 49.65%
+NonCoding_4: 50.22%
+NonCoding_5: 50.40%
+NonCoding_6: 50.82%
+NonCoding_7: 48.89%
+NonCoding_8: 51.09%
+NonCoding_9: 50.26%
+NonCoding_10: 50.00%
