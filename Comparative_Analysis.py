@@ -8,10 +8,10 @@ import matplotlib.pyplot as plt
 from collections import Counter
 
 # ClustalW Path
-Clustal_path = r"C:\Program Files (x86)\ClustalW2\clustalw2.exe"
+Clustal_path = r"Your Path to the File.exe"
 
 #Entrez Email
-Entrez.email = "shaheerdar085@gmail.com"
+Entrez.email = "your email"
 
 #Sequences to Download
 gene_list = [
@@ -144,5 +144,6 @@ with open("Conservation_summary.txt", "w") as f:
     f.write(", ".join([f"{s:.2f}" for s in cds_scores]) + "\n\n")
     f.write("Non-coding:\n")
     f.write(", ".join([f"{s:.2f}" for s in ncs_scores]) + "\n")
+
 
 print("Conservation summary saved to Conservation_summary.txt")
