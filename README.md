@@ -24,7 +24,7 @@ This project performs comparative genomic analysis of coding and non-coding regi
 
 ## 🛠️ Requirements  
 
-- Python 3.8+  
+- Python 3.13.5  
 - [Biopython](https://biopython.org/)  
 - [Matplotlib](https://matplotlib.org/)  
 - [ClustalW2](http://www.clustal.org/clustal2/) installed locally  
